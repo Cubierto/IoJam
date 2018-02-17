@@ -1,10 +1,18 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 0b9086f764b0cfc45b3452924e91ecf7
 timeCreated: 1518830972
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName: {}
   externalObjects: {}
+=======
+guid: 38b3cca60645d8b459833ba7ade39cc4
+timeCreated: 1518830921
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName: {}
+>>>>>>> 6052a0824752bcd618bfa3bd9b1d21b8a9daf0b9
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -58,14 +66,20 @@ TextureImporter:
   platformSettings:
   - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
+<<<<<<< HEAD
     resizeAlgorithm: 0
+=======
+>>>>>>> 6052a0824752bcd618bfa3bd9b1d21b8a9daf0b9
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+<<<<<<< HEAD
     androidETC2FallbackOverride: 0
+=======
+>>>>>>> 6052a0824752bcd618bfa3bd9b1d21b8a9daf0b9
   spriteSheet:
     serializedVersion: 2
     sprites: []
